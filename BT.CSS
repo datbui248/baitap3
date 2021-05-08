@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 20px;
+}
+p{
+    padding: 10px;
+    font-size: 23px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+}
+.bt3.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: black;
+}
+h2{
+    font-size: 46px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    border-bottom: 1px solid #666;
+}
+ul li {
+    list-style: none;
+    margin-left: 20px;
+    font-size: 23px;
+    color:grey;
+    margin-bottom: 10px;
+}
+ul li a {
+    color: grey;
+}
+
+
+.About{
+    padding: 20px;
+    width: 60%;
+}
+.list.flex.j-between{
+    display: flex;
+    justify-content: space-between;
+}
+.Links{
+    padding: 20px;
+    width: 40%;
+}
